@@ -13,6 +13,13 @@
           5.  Maven (for dependency management)
 
 ### Team Members :
-
           1. Nuvindu Senarathne
           2. Jeewantha Herath
+          
+### How to Use:
+          1. Clone the repository to your local machine.
+          2. Configure the database settings.
+          3. Build and run the project using Maven or your preferred IDE.
+          4. Access the API endpoints for leave management functionality.
+
+Feel free to contribute, report issues, or provide feedback. Together, let's make employee leave management more efficient and hassle-free!
