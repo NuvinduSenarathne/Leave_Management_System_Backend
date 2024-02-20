@@ -15,6 +15,9 @@
 ### Team Members :
           1. Nuvindu Senarathne
           2. Jeewantha Herath
+          3. Lilanka Sawan
+          4. Supun Tharaka
+          5. Kawishka Sandaruwan
           
 ### How to Use:
           1. Clone the repository to your local machine.
